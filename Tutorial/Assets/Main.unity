@@ -250,7 +250,11 @@ GameObject:
   - 4: {fileID: 1101269910}
   - 212: {fileID: 1101269909}
   m_Layer: 0
+<<<<<<< HEAD
   m_Name: Oscar
+=======
+  m_Name: Max SpritE
+>>>>>>> origin/master
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
